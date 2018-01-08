@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "echarts": "registry:dt/echarts#0.0.0+20161005184000"
+  },
+  "globalDevDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20161016142654",
+    "less": "registry:dt/less#0.0.0+20161212190028"
+  }
+}
